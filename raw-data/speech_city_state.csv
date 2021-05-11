@@ -1,0 +1,207 @@
+city_state,n,fips
+"Abingdon, VA",1,51191
+"Akron, OH",1,39153
+"Albany, NY",1,36001
+"Albuquerque, NM",1,35001
+"Altoona, PA",1,42013
+"Ambridge, PA",1,42007
+"Ames, IA",1,19169
+"Anaheim, CA",1,06059
+"Anderson, SC",1,45007
+"Appleton, WI",1,55087
+"Ashburn, VA",1,51107
+"Asheville, NC",2,37021
+"Aston, PA",1,42045
+"Atkinson, NH",2,33015
+"Atlanta, GA",2,13121
+"Austin, TX",2,48015
+"Baltimore, MD",1,24510
+"Bangor, ME",2,23019
+"Bedford, NH",1,33011
+"Bentonville, AR",1,05007
+"Berlin, MD",1,24047
+"Bethpage, NY",1,36059
+"Billings, MT",1,30111
+"Birch Run, MI",1,26145
+"Bismarck, ND",2,38015
+"Bluffton, SC",1,45013
+"Buffalo, NY",1,36029
+"Burlington, VT",1,50007
+"Cadillac, MI",1,26165
+"Canton, OH",2,39151
+"Carmel, IN",1,18057
+"Cedar Rapids, IA",2,19113
+"Charleston, SC",1,45019
+"Charleston, WV",1,54039
+"Charlotte, NC",6,37119
+"Chicago, IL",1,17031
+"Cincinnati, OH",2,39061
+"Clemson, SC",1,45077
+"Cleveland, OH",9,39035
+"Clevelend, OH",1,39035
+"Colorado Springs, CO",3,08041
+"Columbus, OH",2,39049
+"Concord, NC",1,37025
+"Costa Mesa, CA",1,06059
+"Council Bluffs, IA",1,19155
+"Dallas, TX",1,48113
+"Davenport, IA",1,19163
+"Daytona Beach, FL",1,12127
+"De Pere, WI",1,55009
+"Delaware, OH",2,39041
+"Denver, CO",2,08031
+"Des Moines, IA",8,19057
+"Detroit, MI",3,26163
+"Dimondale, MI",2,26045
+"Dubuque, IA",1,19061
+"Eau Claire, WI",2,55035
+"Erie, PA",1,42049
+"Eugene, OR",1,41039
+"Evansville, IN",1,18163
+"Everett, WA",2,53061
+"Fayetteville, NC",2,37051
+"Fletcher, NC",2,37089
+"Flint, MI",1,26049
+"Fort Dodge, IA",1,19187
+"Fort Myers, FL",1,12071
+"Fort Worth, TX",1,48439
+"Fountain Hills, AZ",1,04013
+"Fredericksburg, VA",1,51630
+"Fresno, CA",1,06019
+"Gaffney, SC",1,45021
+"Geneva, OH",2,39007
+"Gettysburg, PA",2,42001
+"Golden, CO",2,08059
+"Grand Junction, CO",1,08077
+"Grand Rapids, MI",3,26081
+"Greeley, CO",1,08123
+"Green Bay, WI",3,55009
+"Greensboro, NC",2,37081
+"Greenville, NC",2,37147
+"Hampton, NH",1,33015
+"Harrisburg, PA",1,42043
+"Henderson, NV",2,32003
+"Herndon, VA",1,51059
+"Hershey, PA",1,42043
+"High Point, NC",1,37081
+"Hilton Head, SC",1,45013
+"Houston, TX",3,48201
+"Indianapolis, IN",2,18097
+"Jackson, MI",1,26075
+"Jackson, MS",1,28059
+"Jacksonville, FL",2,12031
+"Janesville, WI",1,55105
+"Johnstown, PA",1,42021
+"Jupiter, FL",1,12099
+"Kansas City, MO",1,29095
+"Keene, NH",1,33005
+"Kenansville, NC",2,37061
+"Kiawah Island, SC",1,45019
+"Kinston, NC",1,37107
+"Kissimmee, FL",1,12097
+"La Crosse, WI",1,55063
+"Laconia, NH",1,33001
+"Lakeland, FL",1,12105
+"Las Vegas, NV",9,32003
+"Leesburg, VA",1,51107
+"Lisbon, ME",1,23001
+"Los Angeles, CA",1,06037
+"Louisville, KY",1,21111
+"Loveland, CO",2,08069
+"Lynchburg, VA",1,51680
+"Manassas, VA",1,51683
+"Manchester, NH",10,33013
+"Manheim, PA",2,42071
+"Marietta, OH",1,39167
+"Melbourne, FL",1,12009
+"Mexico City, NA",1,
+"Miami Beach, FL",1,12086
+"Miami, FL",3,12086
+"Milwaukee, WI",1,55079
+"Minneapolis, MN",1,27053
+"Mobile, AL",1,01097
+"Monessen, PA",2,42129
+"Moon Township, PA",1,42003
+"Mount Pleasant, SC",1,45019
+"NA, FL",1,
+"NA, IA",1,
+"NA, NA",10,
+"NA, NH",1,
+"Naples, FL",2,12071
+"Nashua, NH",1,33011
+"Nashville, TN",1,47037
+"New Orleans, LA",1,22071
+"New York, NY",9,36061
+"Newtown, PA",2,42017
+"Norwalk, IA",1,19121
+"Norwood, MA",1,25021
+"Novi, MI",2,26125
+"Ocala, FL",1,12083
+"Oklahoma City, OK",1,40109
+"Omaha, NE",1,31055
+"Orlando, FL",3,12095
+"Palm Beach, FL",2,12099
+"Panama City, FL",2,12005
+"Pensacola, FL",3,12033
+"Pheonix, AZ",1,04013
+"Philadelphia, PA",2,42101
+"Phoenix, AZ",5,04013
+"Pittsburg, PA",3,42003
+"Plattsburgh, NY",1,36019
+"Portland, ME",2,23005
+"Portsmouth, NH",3,33015
+"Prescott Valley, AZ",2,04025
+"Pueblo, CO",2,08101
+"Radford, VA",1,51750
+"Raleigh, NC",2,37183
+"Redding, CA",1,06089
+"Reno, NV",4,32031
+"Richmond, VA",2,51760
+"Roanoke, VA",2,51161
+"Rochester, NY",1,36055
+"Rome, NY",1,36065
+"Sacramento, CA",1,06067
+"San Diego, CA",1,06073
+"San Jose, CA",1,06085
+"Sanford, FL",1,12117
+"Sarasota, FL",1,12115
+"Scranton, PA",2,42069
+"Selma, NC",2,37101
+"Sioux City, IA",2,19193
+"South Bend, IN",1,18141
+"Spartanburg, SC",1,45083
+"Spokane, WA",1,53063
+"Springfield, OH",2,39023
+"St. Augustine, FL",1,12109
+"Sterling Heights, MI",1,26099
+"Suffolk County, NY",1,36103
+"Sun City, SC",1,45013
+"Superior, WI",1,55031
+"Tallahassee, FL",1,12073
+"Tallahassee, NA",1,
+"Tampa, FL",5,12057
+"Toledo, OH",2,39095
+"Tyngsborough, MA",1,25017
+"Urbandal, IA",1,19057
+"Valdosta, GA",1,13185
+"Valley Forge, PA",2,42091
+"Vandalia, OH",1,39113
+"Virginia Beach, VA",3,51810
+"Walterboro, SC",1,45029
+"Warren, MI",3,26099
+"Warwick, RI",1,44003
+"Washington, DC",11,11001
+"Waukesha, WI",2,55133
+"West Bend, WI",2,55095
+"West Chester, PA",1,42029
+"West Palm Beach, FL",3,12099
+"Westchester, NY",1,36119
+"Westfield, IN",1,18057
+"Wichita, KS",1,20203
+"Wilkes Barre, PA",1,42079
+"Wilkes-Barre, PA",1,42079
+"Wilmington, NC",2,37129
+"Wilmington, OH",3,39027
+"Wyndham, NH",1,33015
+"York, NY",1,36061
+"Youngstown, OH",3,44501
